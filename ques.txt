@@ -11,7 +11,7 @@ b) System.out.println()
 c) Console.write()
 d) Print.out()
 
-3. What is the default data type of a variable that stores a whole number in Java?
+3. What is the default data type in Java?
 a) int
 b) float
 c) double
